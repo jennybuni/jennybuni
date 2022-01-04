@@ -1,5 +1,7 @@
 ## My first blog post
 
+`jekyll-titles-from-headings`
+
 this is a test to see how well the blog works 
 
 '''markdown
