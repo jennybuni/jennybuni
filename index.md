@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This is just a small blog i decided to set up mainly as a diary
+somewhere to vent and nnhot be so stuck in my own head.
+I will also look at getting better at some coding and using it for my own purposes.
